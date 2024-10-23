@@ -18,11 +18,15 @@ The projects are organized into different categories, each targeting a specific 
 This section contains basic projects focusing on data preprocessing, cleaning, and visualizing datasets. Ideal for beginners.
 
 - [Project 1: Data Cleaning](./Beginner/Project_1_Data_Cleaning/)
-- [Project 2: Basic Descriptive Statistics](./Beginner/Project 2 Descriptive_Statistics/)
-- [Project 3: Data Visualization](./Beginner/Project 3 Data_Visualization/)
-- [Project 4: CSV Data Analysis](./Beginner/Project 4 CSV_Data_Analysis/)
-- [Project 5: SQL for Data Analysis](./Beginner/Project 5 SQL_Data_Analysis/)
-- [Project 6: Weather Data Analysis ](./Beginner/Project 6 Weather Data Analysis /)
+- [Project 2: Basic Descriptive Statistics](./Beginner/Project_2_Descriptive_Statistics/)
+- [Project 3: Data Visualization](./Beginner/Project_3_Data_Visualization/)
+- [Project 4: CSV Data Analysis](./Beginner/Project_4_CSV_Data_Analysis/)
+- [Project 5: SQL for Data Analysis](./Beginner/Project_5_SQL_Data_Analysis/)
+- [Project 6: Weather Data Analysis](./Beginner/Project_6_Weather_Data_Analysis/)
+- [Project 7: Stock Prices Analysis](./Beginner/Project_7_Stock_Prices_Analysis/)
+- [Project 8: Text Data Cleaning](./Beginner/Project_8_Text_Data_Cleaning/)
+- [Project 9: Survey Data Analysis](./Beginner/Project_9_Survey_Data_Analysis/)
+- [Project 10: Customer Segmentation (Basic)](./Beginner/Project_10_Customer_Segmentation_Basic/)
 
 ### 2. Statistical Modeling and Prediction (Intermediate)
 Projects in this category introduce various machine learning models for classification and regression, such as Linear Regression, Decision Trees, and SVM.
