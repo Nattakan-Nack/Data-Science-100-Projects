@@ -17,7 +17,7 @@ The projects are organized into different categories, each targeting a specific 
 ### 1. Data Cleaning and Exploratory Data Analysis (Beginner)
 This section contains basic projects focusing on data preprocessing, cleaning, and visualizing datasets. Ideal for beginners.
 
-- [Project 1: Data Cleaning](./Beginner/Data_Cleaning/)
+- [Project 1: Data Cleaning](./Beginner/Project_1_Data_Cleaning/)
 - [Project 2: Basic Descriptive Statistics](./Beginner/Descriptive_Statistics/)
 - [Project 3: Data Visualization](./Beginner/Data_Visualization/)
 - [Project 4: CSV Data Analysis](./Beginner/CSV_Data_Analysis/)
