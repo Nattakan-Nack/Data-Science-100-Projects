@@ -1,0 +1,34 @@
+# prompt: สรุป ทั้งหมด เป็น Readme หน่อยครับ
+
+# World Happiness Report Analysis in Google Colab
+
+This notebook analyzes the World Happiness Report data using Google Colab. It includes data import, statistical calculations, visualizations, and insights into happiness levels across countries, specifically focusing on ASEAN countries.
+
+## Key Features
+
+- **Data Import:**
+  - Imports a spreadsheet from Google Sheets using `gspread`.
+  - Uploads a CSV file (`WHR2024.csv`) to the Colab workspace. 
+- **Descriptive Statistics:**
+  - Calculates mean, median, and mode values for various happiness indicators.
+  - Identifies countries with the highest and lowest happiness scores.
+- **ASEAN Focus:**
+  - Filters the data for ASEAN countries and conducts comparisons of happiness and related factors.
+- **Visualization:**
+  - Creates bar charts and line plots to compare happiness levels among ASEAN countries.
+  - Generates box plots for analyzing the distribution of key indicators like Healthy life expectancy.
+- **Correlation Analysis:**
+  - Examines correlations between various factors impacting happiness, such as GDP per capita and social support.
+- **Insights:**
+  - The analysis provides insights into the factors that influence happiness within the ASEAN region, highlighting potential disparities and relationships between different indicators.
+
+
+## Data Source
+
+The data used in this analysis is likely the World Happiness Report 2024.
+
+## Code Examples
+
+Here are some examples of the code used:
+
+### Importing Spreadsheet from Google Sheets
